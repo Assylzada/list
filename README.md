@@ -1,6 +1,6 @@
 # MyList Project
 
-This repository contains the implementation of various data structures, such as `MyArrayList`, `MyLinkedList`, `MyStack`, `MyQueue`, and `MyMinHeap`, in Java. These custom data structures aim to replicate the behavior of standard Java collections like `ArrayList`, `LinkedList`, `Stack`, `Queue`, and `PriorityQueue`.
+This repository contains the implementation of various data structures, such as `MyArrayList`, `MyLinkedList`, `MyStack`, `MyQueue`, and `MyMinHeap`, in Java. These custom data structures aim to replicate the behavior of standard Java collections like `ArrayList`, `LinkedList`, `Stack`, `Queue`.
 
 ## Data Structures Included
 
